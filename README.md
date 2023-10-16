@@ -19,8 +19,7 @@ See how easy it is to customize the widget to match your website's theme.
 ### 2. Copy to your website:
 
 Copying the code to your website is straightforward!
-
-![](https://github.com/PlasBit/Crypto-Mining-Calculator-Widget/blob/main/copy.mp4)
+![](https://github.com/PlasBit/Crypto-Mining-Calculator-Widget/blob/main/copy.gif)
 
 ### 3. Installation:
 1. Copy the example provided below.
